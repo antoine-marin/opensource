@@ -1,4 +1,4 @@
-# opensource
+# Open Source Contributions
 
 * Author: Antoine Marin
 * Creation Date: Dec 9th, 2016
