@@ -1,5 +1,4 @@
-# Open Source Contributions
+# Open Source
 
-- Author: Antoine Marin
-- Creation Date: Dec 9th, 2016
-- Subject: Open Source contributions
+This project is meant to gather all my Open Source contributions. All the work done her is under GNU General Public License.
+
